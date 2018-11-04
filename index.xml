@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mehul Kothari on Mehul Kothari</title>
+    <link>https://mehul-kothari.github.io/</link>
+    <description>Recent content in Mehul Kothari on Mehul Kothari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>News Popularity Prediction With Ensemble Methods Of Classification</title>
+      <link>https://mehul-kothari.github.io/publication/monitor-eye-care/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://mehul-kothari.github.io/publication/monitor-eye-care/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Library</title>
+      <link>https://mehul-kothari.github.io/project/local-library/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://mehul-kothari.github.io/project/local-library/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitor Eye-Care System using Blink Detection A Convolutional Neural Net Approach</title>
+      <link>https://mehul-kothari.github.io/publication/news-popularity-prediction/</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 -0800</pubDate>
+      
+      <guid>https://mehul-kothari.github.io/publication/news-popularity-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cric-Bot</title>
+      <link>https://mehul-kothari.github.io/project/cric-bot/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>https://mehul-kothari.github.io/project/cric-bot/</guid>
+      <description>&lt;p&gt;Developed a cognitive document search for the cricket rules using the Microsoft Cognitive Services.
+Generated keywords for document search, using the Language Understanding Intelligent Service(LUIS).
+Designed an API in Django Python which analyzed the keywords obtained from LUIS and generated a response on the basis of different intent scores.
+Scraped the International Cricket Rules website using Python Scrapy framework for creating a local database of rules.
+Designed an Android app and a website for enhanced user experience.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fake-net</title>
+      <link>https://mehul-kothari.github.io/project/fake-net/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>https://mehul-kothari.github.io/project/fake-net/</guid>
+      <description>&lt;p&gt;Developed an application which aims at classifying fake news, summarizes news articles from various sources and determined the probability of credibility of news articles using machine learning.
+Generated headline for summarized news articles.
+Implemented assignment of credibility scores to news articles.
+Collected news articles from various sources using a web crawler, Webhose.
+Extracted keywords and summarized individual news articles using Google&amp;rsquo;s PageRank Algorithm.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Goverment Portal</title>
+      <link>https://mehul-kothari.github.io/project/government-portal/</link>
+      <pubDate>Mon, 10 Oct 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://mehul-kothari.github.io/project/government-portal/</guid>
+      <description>&lt;p&gt;Designed and developed a public forum using Django Python web framework which allowed citizens of the state to post their problems which are either locality specific or general problems.
+Developed a real-time notification system using the python package SwampDragon along with Redis server and inculcated live news feed using the News API.
+Implemented the complexity of different models including likes, comments and notifications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project Management System</title>
+      <link>https://mehul-kothari.github.io/project/project-management-system/</link>
+      <pubDate>Mon, 10 Oct 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://mehul-kothari.github.io/project/project-management-system/</guid>
+      <description>&lt;p&gt;Designed a Java application to ease the process of project evaluation by letting college students form groups and upload projects and teachers to grade projects.
+Analyzed and implemented a one-time login system by issuing a HTTP request to whatismyip.com and used mysql server to maintain the records.
+Designed the user interface using JavaFx API along with Scene Builder 2.0.
+Integrated and configured ftpserver to store the uploaded projects.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spon-taneous</title>
+      <link>https://mehul-kothari.github.io/project/spon-taneous/</link>
+      <pubDate>Sat, 10 Sep 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://mehul-kothari.github.io/project/spon-taneous/</guid>
+      <description>&lt;p&gt;Developed an Android app which gave companies and students a common platform to interact regarding sponsorship for college fests and events.
+Integrated Firebase for real time database server and authentication system.
+Implemented functionalities like notification system using the Notification Manager, real time chat server using FireBase and an alert system using Android Services.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Atlas</title>
+      <link>https://mehul-kothari.github.io/project/atlas/</link>
+      <pubDate>Sat, 10 Jan 2015 00:00:00 -0800</pubDate>
+      
+      <guid>https://mehul-kothari.github.io/project/atlas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

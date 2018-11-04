@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Mehul Kothari</title>
+    <link>https://mehul-kothari.github.io/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Mehul Kothari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 10 Jan 2017 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="https://mehul-kothari.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cric-Bot</title>
+      <link>https://mehul-kothari.github.io/project/cric-bot/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>https://mehul-kothari.github.io/project/cric-bot/</guid>
+      <description>Developed a cognitive document search for the cricket rules using the Microsoft Cognitive Services. Generated keywords for document search, using the Language Understanding Intelligent Service(LUIS). Designed an API in Django Python which analyzed the keywords obtained from LUIS and generated a response on the basis of different intent scores. Scraped the International Cricket Rules website using Python Scrapy framework for creating a local database of rules. Designed an Android app and a website for enhanced user experience.</description>
+    </item>
+    
+    <item>
+      <title>Fake-net</title>
+      <link>https://mehul-kothari.github.io/project/fake-net/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>https://mehul-kothari.github.io/project/fake-net/</guid>
+      <description>Developed an application which aims at classifying fake news, summarizes news articles from various sources and determined the probability of credibility of news articles using machine learning. Generated headline for summarized news articles. Implemented assignment of credibility scores to news articles. Collected news articles from various sources using a web crawler, Webhose. Extracted keywords and summarized individual news articles using Google&amp;rsquo;s PageRank Algorithm.</description>
+    </item>
+    
+  </channel>
+</rss>

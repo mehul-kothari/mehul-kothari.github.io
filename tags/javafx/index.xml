@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JavaFx on Mehul Kothari</title>
+    <link>https://mehul-kothari.github.io/tags/javafx/</link>
+    <description>Recent content in JavaFx on Mehul Kothari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 10 Oct 2016 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://mehul-kothari.github.io/tags/javafx/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project Management System</title>
+      <link>https://mehul-kothari.github.io/project/project-management-system/</link>
+      <pubDate>Mon, 10 Oct 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://mehul-kothari.github.io/project/project-management-system/</guid>
+      <description>Designed a Java application to ease the process of project evaluation by letting college students form groups and upload projects and teachers to grade projects. Analyzed and implemented a one-time login system by issuing a HTTP request to whatismyip.com and used mysql server to maintain the records. Designed the user interface using JavaFx API along with Scene Builder 2.0. Integrated and configured ftpserver to store the uploaded projects.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Mehul Kothari</title>
+    <link>https://mehul-kothari.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Mehul Kothari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 24 May 2018 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://mehul-kothari.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>News Popularity Prediction With Ensemble Methods Of Classification</title>
+      <link>https://mehul-kothari.github.io/publication/monitor-eye-care/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://mehul-kothari.github.io/publication/monitor-eye-care/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,203 @@
+[
+  {
+    "authors": [
+      "Mehul Kothari",
+      "Gautam Worah",
+      "Aasim khan"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1527145200,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1527145200,
+    "objectID": "c86852959e4536d74887348d3ec3cd05",
+    "permalink": "https://mehul-kothari.github.io/publication/monitor-eye-care/",
+    "publishdate": "2018-05-24T00:00:00-07:00",
+    "relpermalink": "/publication/monitor-eye-care/",
+    "section": "publication",
+    "summary": "Online news popularity has become an important issue and a lot of research work is being carried out on the same. Predicting the popularity of an article, a video or any online content can rightly tackle and influence marketing strategies, strengthen the base of any news topic and can also be a valuable asset to the recommendation systems. The aim of this paper is to predict the popularity of news articles for which we have made use of mashable dataset. The paper successfully implements and compares eleven models and found that Gradient Boost works the best on the Online News Popularity dataset with an accuracy of 79.7. Taking the mean of the shares of all the articles the study concludes that articles with more than 3395 shares are considered popular. The paper provides a detailed analysis of all the models and presented a table at the end comparing the results.",
+    "tags": [],
+    "title": "News Popularity Prediction With Ensemble Methods Of Classification",
+    "type": "publication"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": "",
+    "date": 1525935600,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1525935600,
+    "objectID": "dc2c794efdae71548438f8d0fe048bce",
+    "permalink": "https://mehul-kothari.github.io/project/local-library/",
+    "publishdate": "2018-05-10T00:00:00-07:00",
+    "relpermalink": "/project/local-library/",
+    "section": "project",
+    "summary": "A simple online library website created using ExpressJs and mongoose.",
+    "tags": [
+      "NodeJS",
+      "ExpressJs",
+      "Mongoose"
+    ],
+    "title": "Local Library",
+    "type": "project"
+  },
+  {
+    "authors": [
+      "Mehul Kothari",
+      "Gautam Worah",
+      "Aasim khan"
+    ],
+    "categories": null,
+    "content": "",
+    "date": 1510387200,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1510387200,
+    "objectID": "c10296481768cc4fa6076d26c2e2688a",
+    "permalink": "https://mehul-kothari.github.io/publication/news-popularity-prediction/",
+    "publishdate": "2017-11-11T00:00:00-08:00",
+    "relpermalink": "/publication/news-popularity-prediction/",
+    "section": "publication",
+    "summary": "We spend most of our time in front of digital devices, be it at home, at work or while travelling. When working with screens is important to blink regularly, failure of which can result in a condition known as Computer Vision Syndrome(CVS). To avoid the above situation, we can create a system which involves blink detection and if the rate falls below the normal threshold the person is warned immediately. This paper overviews different algorithms used in blink detection. The various phases in this system are image capture, face detection, eye localization and finally blink detection. The standard algorithms for each phase have been discussed. We have proposed a method for blink detection using convolutional neural network to detect the eye states and predict the blinks. Finally, a comparison of our method is made to the other methods of detecting blinks in both still images and live video feed scenarios. Regular usage of the proposed system could significantly reduce the signs of computer vision syndrome and ensure efficient work experience for people with long term computer use.",
+    "tags": [],
+    "title": "Monitor Eye-Care System using Blink Detection A Convolutional Neural Net Approach",
+    "type": "publication"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": "Developed a cognitive document search for the cricket rules using the Microsoft Cognitive Services. Generated keywords for document search, using the Language Understanding Intelligent Service(LUIS). Designed an API in Django Python which analyzed the keywords obtained from LUIS and generated a response on the basis of different intent scores. Scraped the International Cricket Rules website using Python Scrapy framework for creating a local database of rules. Designed an Android app and a website for enhanced user experience.\n",
+    "date": 1484035200,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1484035200,
+    "objectID": "308bc132057f2abb4080a49337c57c74",
+    "permalink": "https://mehul-kothari.github.io/project/cric-bot/",
+    "publishdate": "2017-01-10T00:00:00-08:00",
+    "relpermalink": "/project/cric-bot/",
+    "section": "project",
+    "summary": "A cognitive document search chat-bot",
+    "tags": [
+      "Machine Learning",
+      "Python"
+    ],
+    "title": "Cric-Bot",
+    "type": "project"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": "Developed an application which aims at classifying fake news, summarizes news articles from various sources and determined the probability of credibility of news articles using machine learning. Generated headline for summarized news articles. Implemented assignment of credibility scores to news articles. Collected news articles from various sources using a web crawler, Webhose. Extracted keywords and summarized individual news articles using Google\u0026rsquo;s PageRank Algorithm.\n",
+    "date": 1484035200,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1484035200,
+    "objectID": "e122fa691b62d12956535e14e08c49d0",
+    "permalink": "https://mehul-kothari.github.io/project/fake-net/",
+    "publishdate": "2017-01-10T00:00:00-08:00",
+    "relpermalink": "/project/fake-net/",
+    "section": "project",
+    "summary": "Developed an application to classify fake news articles from true ones",
+    "tags": [
+      "Machine Learning",
+      "Python"
+    ],
+    "title": "Fake-net",
+    "type": "project"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": "Designed and developed a public forum using Django Python web framework which allowed citizens of the state to post their problems which are either locality specific or general problems. Developed a real-time notification system using the python package SwampDragon along with Redis server and inculcated live news feed using the News API. Implemented the complexity of different models including likes, comments and notifications.\n",
+    "date": 1476082800,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1476082800,
+    "objectID": "4c2b0dfb6075b8f2f51322f771ef42c4",
+    "permalink": "https://mehul-kothari.github.io/project/government-portal/",
+    "publishdate": "2016-10-10T00:00:00-07:00",
+    "relpermalink": "/project/government-portal/",
+    "section": "project",
+    "summary": "A portal to increase transparency between citizens and government",
+    "tags": [
+      "Django",
+      "Python"
+    ],
+    "title": "Goverment Portal",
+    "type": "project"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": "Designed a Java application to ease the process of project evaluation by letting college students form groups and upload projects and teachers to grade projects. Analyzed and implemented a one-time login system by issuing a HTTP request to whatismyip.com and used mysql server to maintain the records. Designed the user interface using JavaFx API along with Scene Builder 2.0. Integrated and configured ftpserver to store the uploaded projects.\n",
+    "date": 1476082800,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1476082800,
+    "objectID": "29646d221c030014fe52661aa02f779c",
+    "permalink": "https://mehul-kothari.github.io/project/project-management-system/",
+    "publishdate": "2016-10-10T00:00:00-07:00",
+    "relpermalink": "/project/project-management-system/",
+    "section": "project",
+    "summary": "A project management app which eases the process of uploading and grading projects",
+    "tags": [
+      "JavaFx",
+      "Student"
+    ],
+    "title": "Project Management System",
+    "type": "project"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": "Developed an Android app which gave companies and students a common platform to interact regarding sponsorship for college fests and events. Integrated Firebase for real time database server and authentication system. Implemented functionalities like notification system using the Notification Manager, real time chat server using FireBase and an alert system using Android Services.\n",
+    "date": 1473490800,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1473490800,
+    "objectID": "a00ab93bb3ffe09d67e5ebe528777aca",
+    "permalink": "https://mehul-kothari.github.io/project/spon-taneous/",
+    "publishdate": "2016-09-10T00:00:00-07:00",
+    "relpermalink": "/project/spon-taneous/",
+    "section": "project",
+    "summary": "A platform for students and sponsors to interact",
+    "tags": [
+      "Android Development",
+      "Java"
+    ],
+    "title": "Spon-taneous",
+    "type": "project"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": "",
+    "date": 1420876800,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1420876800,
+    "objectID": "cd78a36f1fcf7c63cb58c0d05bc06ced",
+    "permalink": "https://mehul-kothari.github.io/project/atlas/",
+    "publishdate": "2015-01-10T00:00:00-08:00",
+    "relpermalink": "/project/atlas/",
+    "section": "project",
+    "summary": "An android multiplayer game",
+    "tags": [
+      "Java",
+      "Android"
+    ],
+    "title": "Atlas",
+    "type": "project"
+  }
+]
