@@ -100,6 +100,22 @@
     
     <url>
     
+      <loc>https://mehul-kothari.github.io/project/minesweeper/</loc>
+      <lastmod>2015-01-10T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mehul-kothari.github.io/project/xv6-kernel/</loc>
+      <lastmod>2015-01-10T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://mehul-kothari.github.io/publication_types/1/</loc>
       <lastmod>2018-05-24T00:00:00-07:00</lastmod>
       <priority>0</priority>
@@ -118,6 +134,15 @@
     
     <url>
     
+      <loc>https://mehul-kothari.github.io/tags/ai/</loc>
+      <lastmod>2015-01-10T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://mehul-kothari.github.io/tags/android/</loc>
       <lastmod>2015-01-10T00:00:00-08:00</lastmod>
       <priority>0</priority>
@@ -129,6 +154,15 @@
     
       <loc>https://mehul-kothari.github.io/tags/android-development/</loc>
       <lastmod>2016-09-10T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mehul-kothari.github.io/tags/c/</loc>
+      <lastmod>2015-01-10T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -216,6 +250,15 @@
     
     <url>
     
+      <loc>https://mehul-kothari.github.io/tags/operating-system/</loc>
+      <lastmod>2015-01-10T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://mehul-kothari.github.io/project/</loc>
       <lastmod>2018-05-10T00:00:00-07:00</lastmod>
       <priority>0</priority>
@@ -253,6 +296,15 @@
     <url>
     
       <loc>https://mehul-kothari.github.io/tags/</loc>
+      <lastmod>2015-01-10T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mehul-kothari.github.io/tags/xv6/</loc>
       <lastmod>2015-01-10T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>

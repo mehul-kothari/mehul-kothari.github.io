@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>AI</title>
+      <link>https://mehul-kothari.github.io/tags/ai/</link>
+      <pubDate>Sat, 10 Jan 2015 00:00:00 -0800</pubDate>
+      
+      <guid>https://mehul-kothari.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Android</title>
       <link>https://mehul-kothari.github.io/tags/android/</link>
       <pubDate>Sat, 10 Jan 2015 00:00:00 -0800</pubDate>
@@ -27,6 +36,15 @@
       <pubDate>Sat, 10 Sep 2016 00:00:00 -0700</pubDate>
       
       <guid>https://mehul-kothari.github.io/tags/android-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C</title>
+      <link>https://mehul-kothari.github.io/tags/c/</link>
+      <pubDate>Sat, 10 Jan 2015 00:00:00 -0800</pubDate>
+      
+      <guid>https://mehul-kothari.github.io/tags/c/</guid>
       <description></description>
     </item>
     
@@ -94,6 +112,15 @@
     </item>
     
     <item>
+      <title>Operating System</title>
+      <link>https://mehul-kothari.github.io/tags/operating-system/</link>
+      <pubDate>Sat, 10 Jan 2015 00:00:00 -0800</pubDate>
+      
+      <guid>https://mehul-kothari.github.io/tags/operating-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Python</title>
       <link>https://mehul-kothari.github.io/tags/python/</link>
       <pubDate>Tue, 10 Jan 2017 00:00:00 -0800</pubDate>
@@ -108,6 +135,15 @@
       <pubDate>Mon, 10 Oct 2016 00:00:00 -0700</pubDate>
       
       <guid>https://mehul-kothari.github.io/tags/student/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xv6</title>
+      <link>https://mehul-kothari.github.io/tags/xv6/</link>
+      <pubDate>Sat, 10 Jan 2015 00:00:00 -0800</pubDate>
+      
+      <guid>https://mehul-kothari.github.io/tags/xv6/</guid>
       <description></description>
     </item>
     

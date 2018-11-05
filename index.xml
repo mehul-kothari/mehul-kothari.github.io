@@ -111,5 +111,23 @@ Implemented functionalities like notification system using the Notification Mana
       <description></description>
     </item>
     
+    <item>
+      <title>Minesweeper (AI agent)</title>
+      <link>https://mehul-kothari.github.io/project/minesweeper/</link>
+      <pubDate>Sat, 10 Jan 2015 00:00:00 -0800</pubDate>
+      
+      <guid>https://mehul-kothari.github.io/project/minesweeper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xv6-kernel</title>
+      <link>https://mehul-kothari.github.io/project/xv6-kernel/</link>
+      <pubDate>Sat, 10 Jan 2015 00:00:00 -0800</pubDate>
+      
+      <guid>https://mehul-kothari.github.io/project/xv6-kernel/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
